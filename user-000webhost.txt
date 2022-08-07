@@ -1,0 +1,8 @@
+Project
+name : pplgrestapi
+pass : cd(lFFmIDV4v3vx5gW1V
+
+Db
+nama : id19372925_pplg_rest
+user : id19372925_root
+pass : z?+wp]YZ#\D{OP3A
